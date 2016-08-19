@@ -1,0 +1,24 @@
+{
+  "name": "myjekyllblog",
+  "version": "0.0.1",
+  "authors": [
+    "steven"
+  ],
+  "description": "An open source RSS news reader to help you track and manage all the content you care about, getting better every week and made with ♥ in NYC",
+  "keywords": [
+    "jekyll",
+    "blog"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1"
+  }
+}
