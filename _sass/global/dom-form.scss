@@ -1,0 +1,28 @@
+
+.form {
+
+	font-size: $font-med;
+
+	* {
+		box-sizing: border-box;
+	}
+
+	input {
+		padding: 5px 3px 3px 3px;
+		border: 1px solid $fade-color;
+	}
+
+	button {
+		padding: 5px 3px 3px 3px;
+		border: 1px solid $fade-color;
+	}
+
+}
+
+@media only screen and (max-device-width: $sm-layout-border) {
+	.form {
+		input {
+			font-size: $font-plus;
+		}
+	}
+}

@@ -1,0 +1,25 @@
+.footer {
+	height: 10%;
+}
+
+.post {
+
+	background-color: white;
+	padding: 10px;
+	border: 1px solid #CACACA;
+	margin: 10px 0px;
+
+	.post-date {
+		font-size: $font-small;
+		color: $fade-color;
+	}
+
+	a {
+		color: $primary-color;
+	}
+
+	p.content {
+		line-height: 30px;
+	}
+}
+

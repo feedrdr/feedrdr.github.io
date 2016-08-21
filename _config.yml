@@ -9,9 +9,9 @@ permalink:        /posts/:title/
 
 # User Configuration
 title:            feedrdr.blog
-tagline:          'An open source RSS news reader to help you track and manage all the content you care about, getting better every week and made with ♥ in NYC'
-description:      'Passionate about technology and building things'
-url:              https://feedrdr.co/blog
+tagline:          'feedrdr blog'
+description:      'An open source RSS news reader to help you track and manage all the content you care about, getting better every week and made with ♥ in NYC'
+url:              https://blog.feedrdr.co
 baseurl:          '/'
 paginate:         3
 excerpt_separator: '<br>'
@@ -23,25 +23,25 @@ gems:
 
 # Author Info
 author:
-  name:           'steven'
-  url:            https://feedrdr.co/blog
+  name:           'Steven Liechti'
+  url:            https://blog.feedrdr.co
 
 # Social Integration
 social:
-  twitter:        steven
-  disqus:         steven
-  addthis_pubid:  
+  twitter:        feedrdco
+  disqus:         feedrdr
+  addthis_pubid:
 
 # Google Analytics Configuration
 # Proxy response must be in JSON and should have the fields - ga:pagePath, ga:pageview
 google_analytics:
-  tracking_id:      
-  super_proxy_url:  
+  tracking_id: UA-82816579-2
+  super_proxy_url:
 
 # Github
 github:
   repo:           https://github.com/feedrdr/web.blog.git
-  feedback:       
+  feedback:
 
 # Version Info
 version:          0.0.0

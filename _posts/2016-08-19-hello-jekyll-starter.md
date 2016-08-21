@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Jekyll Starter!"
-date:   2014-08-15 08:07:00
+date:   2016-08-19 08:07:00
 categories: blogging
 tags: blogging jekyll-starter
 comments: true
