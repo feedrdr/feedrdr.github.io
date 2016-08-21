@@ -1,0 +1,29 @@
+.footer {
+
+	border-top: 1px solid $fade-color;
+	background-color: $primary-contrast-color;
+	padding: 10px 0px;
+	text-align: center;
+
+	ul {
+		margin: 0 auto;
+		list-style: none;
+		padding: 0px;
+	}
+
+	ul li {
+		display: inline-block;
+		padding: 0px 10px;
+	}
+
+	ul li:hover {
+		text-decoration: underline;
+	}
+
+	ul a {
+		font-size: $font-small;
+		text-decoration: none;
+		color: $primary-color;
+	}
+
+}

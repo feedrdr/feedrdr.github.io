@@ -1,0 +1,18 @@
+{
+  "name": "myjekyllblog",
+  "version": "0.0.1",
+  "description": "An open source RSS news reader to help you track and manage all the content you care about, getting better every week and made with ♥ in NYC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/feedrdr/web.blog.git"
+  },
+  "keywords": [
+    "blog",
+    "jekyll"
+  ],
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-cssmin": "^0.10.0",
+    "grunt-jekyll": "^0.4.2"
+  }
+}
