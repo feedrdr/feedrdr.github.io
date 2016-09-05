@@ -9,6 +9,10 @@
 	border: 1px solid #CACACA;
 	margin: 10px 0px;
 
+	img {
+		max-width: 250px;
+	}
+
 	.post-date {
 		font-size: $font-small;
 		color: $fade-color;

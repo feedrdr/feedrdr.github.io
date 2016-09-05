@@ -1,29 +1,31 @@
 .footer {
-
-	border-top: 1px solid $fade-color;
-	background-color: $primary-contrast-color;
+	background-color: #FFFFFF;
+	width: 100%;
+	font-size: 0.8em;
 	padding: 10px 0px;
 	text-align: center;
+	border-top: 1px solid #D6D6D6;
+	text-align: center;
+}
 
-	ul {
-		margin: 0 auto;
-		list-style: none;
-		padding: 0px;
-	}
+.footer ul {
+	margin: 0 auto;
+	list-style: none;
+	width: 70%;
+	padding: 0px;
+}
 
-	ul li {
-		display: inline-block;
-		padding: 0px 10px;
-	}
+.footer ul li {
+	display: inline-block;
+	padding: 0px 10px;
+}
 
-	ul li:hover {
-		text-decoration: underline;
-	}
+.footer ul li:hover {
+	text-decoration: underline;
+}
 
-	ul a {
-		font-size: $font-small;
-		text-decoration: none;
-		color: $primary-color;
-	}
-
+.footer ul a {
+	text-decoration: none;
+	font-size: 0.8em;
+	color: #173c4f;
 }
